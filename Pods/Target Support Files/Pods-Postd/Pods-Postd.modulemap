@@ -1,0 +1,6 @@
+framework module Pods_Postd {
+  umbrella header "Pods-Postd-umbrella.h"
+
+  export *
+  module * { export * }
+}
